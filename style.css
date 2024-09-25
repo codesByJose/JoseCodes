@@ -112,6 +112,9 @@ p{
     display: grid;
     grid-template-columns: repeat(3, 0.2fr);
 }
+.icons a i{
+    color: white;
+}
 .icons a:visited i{ 
     color: white !important; 
 }
